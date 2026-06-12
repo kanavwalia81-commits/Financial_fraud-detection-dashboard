@@ -137,7 +137,7 @@ Power BI Live Dashboard Refreshed
 
 ## Author
 
-Khushi Lathwal
+Kanav Walia
 **Chitkara University — MBA Applied Finance**
 
 
